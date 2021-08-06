@@ -1,0 +1,37 @@
+p {
+    color:tomato;
+    margin-left: 40%;
+}
+.menu {
+    margin-left: 80%;
+    
+}
+.header{
+    background-color: cadetblue;
+    display: flex;
+    flex-wrap:wrap;
+    margin:50px;
+    justify-content: space-between;
+}
+
+.grid{
+    border-radius:50px;
+    background-color:whitesmoke;
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;   
+    font-family:fantasy;
+}
+.grid img{
+border:2px solid black;
+border-radius:50px;
+
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+p,h2{
+    text-align: center;
+}
